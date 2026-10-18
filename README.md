@@ -52,7 +52,7 @@ Assurez-vous d'avoir Python 3.9+ installé.
 
 ```bash
 # Cloner le dépôt
-git clone https://github.com/ReddaOutkida/Auto-ML-Adaptatif.git
+git clone https://github.com/ettaoussiNouhaila/Auto-ML-Adaptatif.git
 cd Auto-ML-Adaptatif
 
 # Installer les dépendances
